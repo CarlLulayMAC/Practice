@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Hello World</string>
+        <string name="app_name">Profile</string>
+        <string name="name_label">NAME</string>
+        <string name="dob_label">BIRTHDAY</string>
+        <string name="education_label">EDUCATION</string>
+        <string name="experience_label">EXPERIENCE</string>
+        <string name="name">Carl Lulay</string>
+        <string name="dob">February 22, 1991</string>
+        <string name="education">Bachelors of Computer Science</string>
+        <string name="experience">3 years</string>
 </resources>

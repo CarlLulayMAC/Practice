@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Profile</string>
+        <string name="name_label">NAME</string>
+        <string name="dob_label">GEBURTSTAG</string>
+        <string name="education_label">BILDUNG</string>
+        <string name="experience_label">ERFAHRUNG</string>
+        <string name="name">Carl Lulay</string>
+        <string name="dob">22. Februar 1991</string>
+        <string name="education">BACHELOREN DER COMPUTERWISSENSCHAFT</string>
+        <string name="experience">3 JAHRE</string>
+</resources>
